@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/HRXnPYf10Zx0wz4alF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-mountain-kaijupxl-HRXnPYf10Zx0wz4alF">via GIPHY</a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominikKorpusik)](https://git.io/streak-stats)
