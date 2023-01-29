@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### My Github stats!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominikKorpusik)](https://git.io/streak-stats)
-![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?user=DominikKorpusik&hide=contribs,prs)
+[![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikKorpusik)](https://github.com/DominikKorpusik/github-readme-stats)
