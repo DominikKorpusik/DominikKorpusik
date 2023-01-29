@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### My Github stats!
-<div style="text-align: center;">
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DominikKorpusik&theme=monokai&hide_border=true)](https://git.io/streak-stats)
   <br>
   [![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikKorpusik&hide=issues,contribs&theme=monokai&show_icons=true)](https://github.com/DominikKorpusik/github-readme-stats)
-</div>
+
