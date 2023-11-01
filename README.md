@@ -11,10 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dominik.korpusik@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-[![MasterHead](./banner.png)](https://github.com/DominikKorpusik)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DominikKorpusik&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikKorpusik&hide=issues,contribs&theme=monokai&show_icons=true)](https://github.com/DominikKorpusik/github-readme-stats)
+
+-->
+
+[![MasterHead](./banner.png)](https://github.com/DominikKorpusik)
+
+
